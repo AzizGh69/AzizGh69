@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mouhamed aziz ghazouani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate data science student from IHEC CATHAGE</h3>
 
 - 🔭 I’m currently working on **carpool project**
 
