@@ -68,8 +68,8 @@ I'm a student at **IHEC Carthage** working my way toward **data engineering** an
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AzizGh69&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizGh69&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="./assets/stats.svg" alt="GitHub stats" />
+  <img height="170" src="./assets/top-langs.svg" alt="Top languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=AzizGh69&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
