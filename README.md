@@ -12,7 +12,7 @@
 
 I'm a student at **IHEC Carthage** working my way toward **data engineering** and **cloud / solutions architecture**. I like building things end to end, from the data model to the UI to where it runs in the cloud.
 
-- 🔭 **Currently building:** [Kalori](https://kalori-app.me), a food & calorie tracking app (React + TypeScript)
+- 🔭 **Currently building:** [Kalori](https://kalori-app.com), a food & calorie tracking app (React + TypeScript)
 - 🌱 **Learning:** data pipelines & ETL, SQL and data warehousing, cloud architecture on AWS / Azure
 - 🎯 **Goal:** design scalable, reliable data platforms in the cloud
 - ⚡ **Fun fact:** I also build AI tools for Valorant 🎮
@@ -21,7 +21,7 @@ I'm a student at **IHEC Carthage** working my way toward **data engineering** an
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🥗 **[Kalori](https://kalori-app.me)** | Food & calorie tracking web app | React · TypeScript · Tailwind · Vite |
+| 🥗 **[Kalori](https://kalori-app.com)** | Food & calorie tracking web app | React · TypeScript · Tailwind · Vite |
 | 🎯 **[ValorantAgentAssistant](https://github.com/AzizGh69/ValorantAgentAssistant)** | AI-powered weapon recommendations & tactical scenario training | Python · AI |
 | 📚 **[IHEC Library](https://github.com/AzizGh69/ihec_library-)** | Library management system (team project) | C# · SQL |
 | 🎓 **[LearnHub](https://github.com/AzizGh69/LearnHub)** | E-learning app (team project) | Java |
@@ -77,9 +77,7 @@ I'm a student at **IHEC Carthage** working my way toward **data engineering** an
 ## 🤝 Connect with me
 
 <p>
-  <a href="https://kalori-app.me"><img src="https://img.shields.io/badge/Kalori-kalori--app.me-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <!-- TODO: replace YOUR-LINKEDIN with your LinkedIn handle -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!-- TODO: replace with the email you want to show publicly -->
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://kalori-app.com"><img src="https://img.shields.io/badge/Kalori-kalori--app.com-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aziz-ghazouani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:support@kalori-app.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
