@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="195" viewBox="0 0 350 195" fill="none" role="img" aria-label="Most Used Languages">
+<style>
+  .header { font: 600 18px 'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; fill: #70a5fd; }
+  .lang { font: 400 11px 'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; fill: #38bdae; }
+  .note { font: 400 10px 'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; fill: #38bdae; opacity: .6; }
+</style>
+<rect x="0.5" y="0.5" rx="4.5" width="349" height="194" fill="#1a1b27"/>
+<text x="25" y="35" class="header">Most Used Languages</text>
+<g transform="translate(25,55)">
+  <mask id="m"><rect x="0" y="0" width="300" height="8" rx="5" fill="white"/></mask>
+  <g mask="url(#m)"><rect x="0.00" y="0" width="283.64" height="8" fill="#3178c6"/><rect x="283.64" y="0" width="5.12" height="8" fill="#f1e05a"/><rect x="288.76" y="0" width="4.19" height="8" fill="#3572A5"/><rect x="292.95" y="0" width="3.80" height="8" fill="#89e051"/><rect x="296.75" y="0" width="1.81" height="8" fill="#563d7c"/><rect x="298.55" y="0" width="1.45" height="8" fill="#e34c26"/></g>
+</g>
+<g transform="translate(25,80)">
+<g transform="translate(0,0)">
+  <circle cx="5" cy="6" r="5" fill="#3178c6"/>
+  <text x="15" y="10" class="lang">TypeScript 94.55%</text>
+</g>
+<g transform="translate(150,0)">
+  <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
+  <text x="15" y="10" class="lang">JavaScript 1.71%</text>
+</g>
+<g transform="translate(0,25)">
+  <circle cx="5" cy="6" r="5" fill="#3572A5"/>
+  <text x="15" y="10" class="lang">Python 1.40%</text>
+</g>
+<g transform="translate(150,25)">
+  <circle cx="5" cy="6" r="5" fill="#89e051"/>
+  <text x="15" y="10" class="lang">Shell 1.27%</text>
+</g>
+<g transform="translate(0,50)">
+  <circle cx="5" cy="6" r="5" fill="#563d7c"/>
+  <text x="15" y="10" class="lang">CSS 0.60%</text>
+</g>
+<g transform="translate(150,50)">
+  <circle cx="5" cy="6" r="5" fill="#e34c26"/>
+  <text x="15" y="10" class="lang">HTML 0.48%</text>
+</g>
+</g>
+<text x="325" y="183" text-anchor="end" class="note">incl. private repos · Oct 15, 2026</text>
+</svg>
